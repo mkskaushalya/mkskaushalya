@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **Information and Communication Engineering, Java, PHP OOP, JSP, Servlet, JavaScript, Dart, WordPress and etc...**
 
-- 👨‍💻 All of my projects are available at [mkskaushalya.github.io](mkskaushalya.github.io)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/mkskaushalya?tab=repositories)
 
-- 📝 I regularly write articles on [www.tute.lk](www.tute.lk)
+- 📝 I regularly write articles on [https://www.tute.lk](https://www.tute.lk)
 
 - 💬 Ask me about **PHP, HTML, CSS**
 
 - 📫 How to reach me **mkskaushalya@gmail.com**
+
+- <img src="https://mkskaushalya.github.io/mkskaushalya/wa.svg" width="18px" height="18px" alt="mkskaushalya"> &nbsp;Text me on Whatsapp [0787520742](https://wa.me/94787520742)
 
 - 📄 Know about my experiences [mkskaushalya.github.io/resume.pdf](mkskaushalya.github.io/resume.pdf)
 
